@@ -1,6 +1,5 @@
 # 🪙Converto
 
-<img src="https://previews.dropbox.com/p/thumb/ACZgnzvgqwVLB7bbJdbQVA2N741_YQMY5P0Nu2aeZvSQ-KftRUx6xXF3gNALKuvB2-4spovgEwSycDvwQ1qzFWrLfo2Pa4YbdcfXgJzGL09JRmR7etKL_ZfinAHqqfIzDgtpoYdn9ReyVOs6Qna-PioaiRdpdxlM5ckmx_Rzc0GpCFQZI77F-vI-W8ZfoJHItkBewvaMQ46bzMamqOd-VnKV52roLERUxpF_ZLUZN2v89p3StIDHx2jNtF83QXHdLAyPOwaVWQB_R1hLRcnLYyYmcEP5WgP7IEEANvSuZedxJb54JoRMao0WwPUz-QpLM254JT9Ocuj0jKtPOi8HSY1Z/p.png" width="100%" style="max-width: 100%;">
 
 # Getting Started with Create React App
 
